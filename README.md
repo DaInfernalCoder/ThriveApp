@@ -1,1 +1,1 @@
-//app that I made to learn to use react native :)
+App made in React Native, Nativewind CSS, and Expo
